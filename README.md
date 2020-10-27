@@ -1,1 +1,1 @@
-"Hello World OOP FIKT"
+Hello World OOP FIKT
